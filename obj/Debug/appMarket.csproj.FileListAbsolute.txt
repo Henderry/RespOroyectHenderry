@@ -1,0 +1,12 @@
+C:\Users\Estudiante\Desktop\appMarket\bin\Debug\appMarket.exe.config
+C:\Users\Estudiante\Desktop\appMarket\bin\Debug\appMarket.exe
+C:\Users\Estudiante\Desktop\appMarket\bin\Debug\appMarket.pdb
+C:\Users\Estudiante\Desktop\appMarket\obj\Debug\appMarket.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\appMarket\obj\Debug\appMarket.frmMain.resources
+C:\Users\Estudiante\Desktop\appMarket\obj\Debug\appMarket.Layers.UI.frmProvincia.resources
+C:\Users\Estudiante\Desktop\appMarket\obj\Debug\appMarket.Layers.UI.frmTarjeta.resources
+C:\Users\Estudiante\Desktop\appMarket\obj\Debug\appMarket.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\appMarket\obj\Debug\appMarket.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\appMarket\obj\Debug\appMarket.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\appMarket\obj\Debug\appMarket.exe
+C:\Users\Estudiante\Desktop\appMarket\obj\Debug\appMarket.pdb
